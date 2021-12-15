@@ -1,0 +1,26 @@
+{
+  "name": "cahier-des-charges",
+  "version": "1.0.0",
+  "description": "Application de trombinoscope pour le compte du client Nicole",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-dev --notify=false index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beginner78000/cahier-des-charges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beginner78000/cahier-des-charges/issues"
+  },
+  "homepage": "https://github.com/Beginner78000/cahier-des-charges#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
