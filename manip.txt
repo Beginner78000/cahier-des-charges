@@ -1,0 +1,6 @@
+student@teleporter:~/Bureau/html/CHALLENGES/Trombin-o-clock$ git remote -v
+trombi	git@github.com:O-clock-Zagreus/trombi-guigacks.git (fetch)
+trombi	git@github.com:O-clock-Zagreus/trombi-guigacks.git (push)
+trombigit	git@github.com:O-clock-Zagreus/Trombin-o-clock-guillaume-gackel.git (fetch)
+trombigit	git@github.com:O-clock-Zagreus/Trombin-o-clock-guillaume-gackel.git (push)
+

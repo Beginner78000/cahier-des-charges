@@ -1,0 +1,14 @@
+Bonjour, nous sommes une école qu'elle est bien, 
+et nous voulons un outil pour faciliter les contacts entre étudiants.
+
+1. Nous aimerions donc pouvoir lister les promotions 
+2. ainsi que lister les étudiants qui les composent, 
+3. mais aussi accèder aux détails d'un étudiant, 
+4. photo de profil comprise.
+5. L'accès aux profils serait libre et gratuit.
+6. Dans un second temps l'outil pourrait servir à éditer les profils 
+7. et promotions.
+
+En ésperant que vous pourrez répondre favorablement à notre demande, 
+Cordialement
+Nicole.
